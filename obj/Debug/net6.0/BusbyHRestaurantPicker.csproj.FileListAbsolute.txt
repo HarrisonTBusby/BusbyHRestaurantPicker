@@ -1,0 +1,15 @@
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\bin\Debug\net6.0\BusbyHRestaurantPicker.exe
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\bin\Debug\net6.0\BusbyHRestaurantPicker.deps.json
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\bin\Debug\net6.0\BusbyHRestaurantPicker.runtimeconfig.json
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\bin\Debug\net6.0\BusbyHRestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\bin\Debug\net6.0\BusbyHRestaurantPicker.pdb
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\BusbyHRestaurantPicker.csproj.AssemblyReference.cache
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\BusbyHRestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\BusbyHRestaurantPicker.AssemblyInfoInputs.cache
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\BusbyHRestaurantPicker.AssemblyInfo.cs
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\BusbyHRestaurantPicker.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\BusbyHRestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\refint\BusbyHRestaurantPicker.dll
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\BusbyHRestaurantPicker.pdb
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\BusbyHRestaurantPicker.genruntimeconfig.cache
+C:\Users\harry\OneDrive\Desktop\CodeStack Level 1\Day1AllCombineAssignements\BusbyHRestaurantPicker\obj\Debug\net6.0\ref\BusbyHRestaurantPicker.dll
